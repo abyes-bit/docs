@@ -335,4 +335,4 @@ You can narrow your search to issues and pull requests that are missing certain 
 
 ### Further reading
 
-- "[Sorting search results](/articles/sorting-search-results/)"
+- "[Sorting search results](/articles/sorting-search-results/)[report-successreport]
